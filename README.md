@@ -8,5 +8,6 @@ En este curso aprendí sobre:
 * El flujo de trabajo en Github
 * Buenas prácticas
 * La manera se enseñar de Freddy (SEO de [Platzi](https://platzi.com/ "Platzi"))
+* Creado por Platzi Team
 
 Y como recordatorio: **Este README.md es un ejemplo** . El curso lo encuentras [**aquí**](https://platzi.com/cursos/git-github/ "aquí")
