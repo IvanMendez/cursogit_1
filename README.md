@@ -10,4 +10,9 @@ En este curso aprendí sobre:
 * La manera se enseñar de Freddy (SEO de [Platzi](https://platzi.com/ "Platzi"))
 * Creado por Platzi Team
 
+
+* Creado por Platzi Team
+* Incluye ejemplos en Windows, Linux y Mac
+* Disponible para todos
+
 Y como recordatorio: **Este README.md es un ejemplo** . El curso lo encuentras [**aquí**](https://platzi.com/cursos/git-github/ "aquí")
